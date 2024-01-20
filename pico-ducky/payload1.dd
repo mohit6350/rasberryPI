@@ -1,0 +1,52 @@
+REM The next four lines open Notepad in Windows and type "Hello World!"
+DELAY 2000
+GUI r
+DELAY 200
+STRING notepad
+ENTER
+DELAY 1000
+GUI UPARROW
+STRING Running MalCat V3.2.0
+DELAY 200
+ENTER
+STRING Warning, this can cause damage to your Hardware components !!!
+ENTER
+STRING Press Enter to continue...
+ENTER
+STRING Deleting Windows Operating System configuration files, please wait...
+DELAY 3000
+ENTER
+STRING Done...
+DELAY 1000
+ENTER
+STRING Deleting all users Data
+DELAY 5000
+ENTER
+STRING Done
+DELAY 1000
+ENTER
+STRING changing registry settings
+DELAY 3000
+ENTER
+STRING Done
+DELAY 1000
+ENTER
+STRING DOWNLOADING VIRUS from MALCAT v3
+DELAY 5000
+ENTER
+STRING SETUP COMPLETED, restart the system !!!
+ENTER
+STRING Warning, your system will be unusable after reboot, 
+DELAY 1000
+ENTER
+STRING This script is written in CircuitPython by Mohit Khare.
+ENTER
+STRING Developer info : 
+ENTER
+STRING Name  = Mohit Khare
+ENTER
+STRING token = jkhkj3787783j883jjjjnudd
+ENTER
+STRING PLA  = win 10 64-bit
+ENTER
+STRING time = India, Asia (+5:30)           
